@@ -47,15 +47,17 @@ skaicius5 = 5;
 skaicius6 = 6;
 
 //Papildoma NR.2
-//skaicius5 = skaicius5 xor skaicius6;
-//skaicius6 = skaicius5 xor skaicius6;
-//skaicius5 = skaicius5 xor skaicius6;
+skaicius5 = skaicius5 ^ skaicius6;
+skaicius6 = skaicius5 ^ skaicius6;
+skaicius5 = skaicius5 ^ skaicius6;
 
 //Papildoma NR.3
+document.getElementById("skaicius5").innerHTML = "skaicius5 = "+ skaicius5;
+document.getElementById("skaicius6").innerHTML = "skaicius6 = "+ skaicius6;
 
 
 
-//https://betterexplained.com/articles/swap-two-variables-using-xor/
+
 
 
 
