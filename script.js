@@ -30,8 +30,10 @@ console.log("skaicius1 = " + skaicius1);
 console.log("skaicius2 = " + skaicius2);
 
 //NR.4 (Nr.5)
-alert("skaicius 3 = " + (skaicius3 = skaicius4) + " skaicius4 = " + (skaicius4 = skaicius3))
-
+var bendrastekstas;
+[skaicius3, skaicius4] = [skaicius4, skaicius3];
+bendrastekstas = "skaicius 3 = " + skaicius3  + " skaicius4 = " + skaicius4;
+alert(bendrastekstas);
 
 //NR.5 (Nr.6)
 var maxSkaicius;
@@ -43,7 +45,11 @@ console.log("maxSkaicius = " + maxSkaicius);
 var skaicius5, skaicius6;
 skaicius5 = 5;
 skaicius6 = 6;
+
 //Papildoma NR.2
+//skaicius5 = skaicius5 xor skaicius6;
+//skaicius6 = skaicius5 xor skaicius6;
+//skaicius5 = skaicius5 xor skaicius6;
 
 //Papildoma NR.3
 
