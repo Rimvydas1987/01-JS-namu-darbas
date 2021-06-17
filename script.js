@@ -32,7 +32,7 @@ console.log("skaicius2 = " + skaicius2);
 //NR.4 (Nr.5)
 var bendrastekstas;
 [skaicius3, skaicius4] = [skaicius4, skaicius3];
-bendrastekstas = "skaicius 3 = " + skaicius3  + " skaicius4 = " + skaicius4;
+bendrastekstas = "skaicius3 = " + skaicius3  + " skaicius4 = " + skaicius4;
 alert(bendrastekstas);
 
 //NR.5 (Nr.6)
