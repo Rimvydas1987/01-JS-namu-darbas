@@ -21,7 +21,7 @@ console.log("suma = " + suma);
 console.log("sandauga = " + sandauga);
 
 
-//NR.3 (Nr.4)
+//NR.4
 tmp = skaicius1;
 skaicius1 = skaicius2;
 skaicius2 = tmp;
@@ -29,13 +29,14 @@ skaicius2 = tmp;
 console.log("skaicius1 = " + skaicius1);
 console.log("skaicius2 = " + skaicius2);
 
-//NR.4 (Nr.5)
+//NR.5
 var bendrastekstas;
 [skaicius3, skaicius4] = [skaicius4, skaicius3];
+//NR.6
 bendrastekstas = "skaicius3 = " + skaicius3  + " skaicius4 = " + skaicius4;
 alert(bendrastekstas);
 
-//NR.5 (Nr.6)
+//NR.7
 var maxSkaicius;
 maxSkaicius = Number.MAX_VALUE
 
