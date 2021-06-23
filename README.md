@@ -8,13 +8,13 @@ Užduotis:
 
 3. Į konsolę išvesti visus 4 skaičius, jų visų sumą ir sandaugą.
 
-3. Sukeisti skaicius1 ir skaicius2 reikšmes vietomis, pasinaudojant laikinuoju kintamuoju.
+4. Sukeisti skaicius1 ir skaicius2 reikšmes vietomis, pasinaudojant laikinuoju kintamuoju.
 
-4. Sukeisti skaicius3 ir skaicius4 reikšmes vietomis be laikinojo kintamojo.
+5. Sukeisti skaicius3 ir skaicius4 reikšmes vietomis be laikinojo kintamojo.
 
-5. Į alert išvesti sukeitimo rezultatus.
+6. Į alert išvesti sukeitimo rezultatus.
 
-6. Susikurti kintamąjį maxSkaicius, jam priskirti maksimalią įmanomą skaitinę reikšmę (infinity netinka) ir išvesti į konsolę.
+7. Susikurti kintamąjį maxSkaicius, jam priskirti maksimalią įmanomą skaitinę reikšmę (infinity netinka) ir išvesti į konsolę.
 
  
 
